@@ -28,8 +28,7 @@
 		"liferay-theme-tasks": "^10.0.2",
 		"postcss-csso": "^4.0.0",
 		"sass": "^1.26.5",
-		"uswds": "^2.7.0",
-		"uswds-gulp": "github:uswds/uswds-gulp"
+		"uswds": "^2.7.0"
 	},
 	"scripts": {
 		"init": "gulp init",
